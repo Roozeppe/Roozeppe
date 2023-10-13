@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Machine Learnig
+- 🔭 I’m currently working on my Machine Learning Portfolio.
+- 👯 I’m looking to collaborate on Machine Learning Projects.
